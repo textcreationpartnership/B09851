@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for passing the bill for the better recovery of bankrupts estates, and for the more equal distribution thereof</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09851</idno><idno type="EEBO-CITATION">69648862</idno>
+  <idno type="VID">185033</idno>
+  <idno type="EEBO-PROQUEST">2240883824</idno>
+  
+            <idno type="OCLC"> 69648862</idno>
+            <idno type="STC">Wing R537N</idno>
+            <idno type="STC">ESTC R182454</idno>
+            <idno type="OCLC">69648862</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185033)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for passing the bill for the better recovery of bankrupts estates, and for the more equal distribution thereof</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside creased and stained with some loss of text.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bankruptcy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land tenure --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Debt --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185033:1"/>
+            <pb facs="tcp:185033:2"/>
+            <head>REASONS Humbly Offered for Passing the Bill for the better Recovery of Bankrupts Estates, and for the more equal Distri<g ref="char:EOLhyphen"/>bution thereof.</head>
+            <p>WHEREAS many well meaning Persons, by Reason of Divers Losses at Sea, or other Misfortunes, are become Insolvent, and tho' willing to Pay their Credi<g ref="char:EOLhyphen"/>tors as far as they are able, yet by the aversness of some few Creditors, or the Incapacity of Executors, Administrators, Guardians and Trustees, to Compound, do Consume what they have left of their Estates, either in Prison, or in Priviledged Places, or beyond Seas, without giving any satisfaction to their Creditors, who often times after a long Delay have lost 5, 10, 15 Shillings, or more in the Pound, which by a speedy Complyance they might have had for their Debts.</p>
+            <p>For Remedy therefore of such Inconveniencies, not yet provided for by former Laws▪ <hi>The Bill Enacts,</hi>
+            </p>
+            <p>THAT an Agreement, or Composition offered by a Bankrupt, and accepted by Two Third Parts, or more, in value of his Creditors, being put in Writing, and Subscribed and Sealed by the said Creditors, or by any other Persons thereunto lawfully Authorised, shall be Binding to all his other Creditors, as fully and effectually, as if all such other Creditors had Actually made, subscribed and sealed such Agreement, or Composition, and that all Executors, Administrators, Guardians, and Trustees, who shall comply with such Agreement, or Compo<g ref="char:EOLhyphen"/>sition, shall not be Charged, or Chargeable for any Wasting, or breach of Trust, or Accoun<g ref="char:EOLhyphen"/>table for more than what they shall actually receive for the Debts so Agreed, or Compounded for. There are also Clauses in the Bill for preventing Frauds of all kinds; besides the Penal<g ref="char:EOLhyphen"/>ties which by other Laws already made, are to be Inflicted on any person that shall Fraudulent<g ref="char:EOLhyphen"/>ly Claim any Debt which is not <hi>Bona Fide</hi> Due from the Bankrupt.</p>
+            <list>
+               <head>Upon this, It is most humbly submitted, Whether the passing this Act is not Reasonable, for</head>
+               <item>
+                  <hi>I.</hi> THE present War, and Circumstances of several Trading parts of the World, where many persons are of late become Bankrupts, I have made the failure of Trading persons in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> more frequent and unavoidable, and therefore more Reasonably Recommends them to the Repre<g ref="char:EOLhyphen"/>sentatives of the Nation for Relief.</item>
+               <item>
+                  <hi>II.</hi> The Matter proposed by this Act, is according to the Maxims of all Men, in all times, upon all occasions, <hi>(viz.)</hi> That of Two Evils the Least is to be Chosen.</item>
+               <item>
+                  <hi>III.</hi> It is pursuant and agreeable with the Laws and Customs of other Trading Parts of <hi>Europe,</hi> and of what fatal consequence the aversness of some few Creditors, and the Incapacity of others to com<g ref="char:EOLhyphen"/>pound, hath been in <hi>England,</hi> is too well known, where the refusal of some few Creditors hath given way to a violent presecution of Commissions of Bankrupt, and Rifling of Bankrupts Estates, untill the Estate, and the Bankrupts, and their Families have been destroy'd, and are bec<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me unprofitable, and as it were, dead Members of the Common Wealth, the Statutes having no Regard, either to Honesty or Knavery, or to Losses, Fire, War, or Shipwrack, the Common Calamities of the World, whereby Persons are disabled from paying their whole Debts.</item>
+               <item>
+                  <hi>IV.</hi> It is the practice in all Societies of Men, that a Major part shall bind the Lesser, even in matters where every particular Member has an Interest. It is the Rule that all Colledges and Companies pro<g ref="char:EOLhyphen"/>ceeds by, in setting Fines, making Leases, Elections of Members, and all other matters relating to their several Societies, and is grounded upon great Reason, for otherwise the variety of Men's Ʋn<g ref="char:EOLhyphen"/>derstandings, and oftner of their Interest and Wills, would make all Debates of Business perpetual and endless. And in the particular Case of this Bill, 'tis to be presumed, that a Majority will not accept of a Composition without apparent Reason that they cannot get more, (for if the Dissenting Creditors know that the Bankrupt is able to give a greater Satisfaction, they will not fail to publish it to hinder the making of the Agreement) and then surely the Major part will be wiser in accepting some thing, than in hazarding all to be lost.</item>
+               <item>
+                  <hi>V.</hi> That often times the Aversness of some few Creditors to Compound, hath proceeded from no other Reason, than the hopes of forcing a Bankrupt to allow them a greater Composition than he was able to pay to his other Creditors, in proportion to their Respective Debts, and thereupon the Bank<g ref="char:EOLhyphen"/>rupt despairing of seeing an end of his Troubles, hath conveyed away his Estate, and all his Creditors have lost what they might have had by a Reasonable Composition.</item>
+               <item>
+                  <hi>VI.</hi> This Act will Relieve the Trading Subjects of <hi>England</hi> from a Notorious Oppression they lie un<g ref="char:EOLhyphen"/>der, by Reason of the difference between our Laws, and those of Foreign Nations, for if a Person fails in <hi>England,</hi> a dissenting Creditor that lives beyond Seas shall obstruct the whole Agreement made in <hi>England</hi> by the rest of the Creditors, whereas if a Person that fails in any Foreign parts, is Debtor to an Inhabitant in <hi>England,</hi> the latter is wholly concluded by an Agreement made by the Majority of the Creditors beyond Seas, without so much as giving him Notice of the making of such Agreement, or Asking his Consent.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
